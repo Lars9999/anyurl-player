@@ -1,0 +1,1 @@
+Use URLResolver to play any URL in Kodi
